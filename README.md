@@ -6,7 +6,7 @@
 > 
 > 我有一个问题，用了多线程后，两个问题有了现在。
 
-* [在线阅读](http://pythonbasics.apachecn.org/)
+* [在线阅读](http://pybs.apachecn.org/)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/pythonbasics-zh/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
